@@ -1,4 +1,4 @@
-# The self-taught Data Scientist guide
+# The self-taught Data Scientist roadmap
 
 Bottom up education
 
